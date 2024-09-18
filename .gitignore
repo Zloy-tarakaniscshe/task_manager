@@ -1,0 +1,4 @@
+.idea
+__pycache__
+database/data_task_manager.db
+venv
